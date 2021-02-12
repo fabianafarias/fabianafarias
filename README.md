@@ -4,8 +4,6 @@
 
 I am brazilian, graduated in biology and environment who works with public health and are changing career to IT. Studying a lot since 2019, I'm looking forward to work.
 
-Skills: HTML / CSS / JS
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java. 
 
