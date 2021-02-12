@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi there!
 #### I'm a junior developer.
-![I'm a junior developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm a junior developer.](https://1.bp.blogspot.com/-PerenMfIjCM/XpcyoHWXSzI/AAAAAAAAB-g/DuPj_IoSWAMod3pVy4eEya4uxk-KN0UuACLcBGAsYHQ/s1600/typing%2Bcat%2Bgif3.gif)
 
 I am brazilian, graduated in biology and environment who works with public health and are changing career to IT. Studying a lot since 2019, I'm looking forward to work.
 
