@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### I'm a junior developer.
-![I'm a junior developer.](https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)
+#### I'm a junior web developer.
+![I'm a junior web developer.](https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)
 
 I am brazilian, graduated in biology and environment who works with public health and are changing career to IT. Studying a lot since 2019, I'm looking forward to work.
 
