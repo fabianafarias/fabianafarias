@@ -1,18 +1,17 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+![cute-funny-kitten-cat-in-coffee-cup-mug-vector-45402977](https://user-images.githubusercontent.com/47903743/228850424-c3194887-a911-4129-ab92-7b4117e4746b.jpg)
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Fabiana</h2>
+
+<!-- ## 👋 &nbsp;Hey there! I'm Fabiana -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+🎓 &nbsp;I'm currently studying Analysis and systems development at the University of Estacio.\
+🌱 &nbsp;I'm on track for learning more about Cloud Architecture.\
+✍️ &nbsp;In my free time, I like watching videos on youtube, lives on Twitch and series on streams.\
+✉️ &nbsp;You can send an email at farias.fabianam@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [linkedin](https://www.linkedin.com/in/farias-fabianam/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
