@@ -1,6 +1,9 @@
 
 ![cute-funny-kitten-cat-in-coffee-cup-mug-vector-45402977](https://user-images.githubusercontent.com/47903743/228850424-c3194887-a911-4129-ab92-7b4117e4746b.jpg)
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Fabiana</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Fabiana -->
@@ -13,17 +16,16 @@
 ✉️ &nbsp;You can send an email at farias.fabianam@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [linkedin](https://www.linkedin.com/in/farias-fabianam/) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
+![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
 ![GCP](https://img.shields.io/badge/-googlecloud-05122A?style=flat&logo=googlecloud)&nbsp;
 ![GCP](https://img.shields.io/badge/-terraform-05122A?style=flat&logo=terraform)&nbsp;
 ![GCP](https://img.shields.io/badge/-kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![GCP](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)&nbsp;
 ![GCP](https://img.shields.io/badge/-android-05122A?style=flat&logo=android)&nbsp;
 ![GCP](https://img.shields.io/badge/-kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-![GCP](https://img.shields.io/badge/-androidstudio-05122A?style=flat&logo=androidstudio)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -32,12 +34,12 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jira](https://img.shields.io/badge/-jira-05122A?style=flat&logo=jira)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/-bitbucket-05122A?style=flat&logo=bitbucket)&nbsp;
+![Android Studio](https://img.shields.io/badge/-androidstudio-05122A?style=flat&logo=androidstudio)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
 ![AdobeXD](https://img.shields.io/badge/-adobexd-05122A?style=flat&logo=adobexd)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
