@@ -6,7 +6,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Fabiana -->
 
-###🏻‍💻 &nbsp;About Me
+### 💻😻🍵 &nbsp;About Me
 
 🎓 &nbsp;I'm currently studying Analysis and systems development at the University of Estacio.\
 🌱 &nbsp;I'm on track for learning more about Cloud Architecture. I'm currently learning: ![Linux](https://img.shields.io/badge/-aws-05122A?style=flat&logo=amazon)&nbsp;
