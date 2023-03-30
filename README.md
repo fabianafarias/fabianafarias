@@ -1,8 +1,6 @@
 
 ![cute-funny-kitten-cat-in-coffee-cup-mug-vector-45402977](https://user-images.githubusercontent.com/47903743/228850424-c3194887-a911-4129-ab92-7b4117e4746b.jpg)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Fabiana</h2>
 
