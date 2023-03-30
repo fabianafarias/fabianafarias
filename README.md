@@ -43,15 +43,14 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabianafarias&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fabianafarias&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/farias-fabianam"><img src="https://img.shields.io/badge/-Fabiana%20Farias%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:farias.fabianam@gmail.com"><img src="https://img.shields.io/badge/-farias.fabianam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
