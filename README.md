@@ -9,7 +9,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently studying Analysis and systems development at the University of Estacio.\
-🌱 &nbsp;I'm on track for learning more about Cloud Architecture.\
+🌱 &nbsp;I'm on track for learning more about Cloud Architecture. I'm currently learning: ![Linux](https://img.shields.io/badge/-aws-05122A?style=flat&logo=amazon)&nbsp;
+\
 ✍️ &nbsp;In my free time, I like watching videos on youtube, lives on Twitch and series on streams.\
 ✉️ &nbsp;You can send an email at farias.fabianam@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [linkedin](https://www.linkedin.com/in/farias-fabianam/) for more details about me. I'm open to feedback and suggestions!
