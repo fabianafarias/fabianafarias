@@ -19,6 +19,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![GCP](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=googlecloud)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
@@ -45,6 +46,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![AdobeXD](https://img.shields.io/badge/-Adobe%20xd-05122A?style=flat&logo=adobexd)&nbsp;
+![MS Office](https://img.shields.io/badge/-MS%20Office-05122A?style=flat&logo=microsoftoffice)&nbsp;
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
