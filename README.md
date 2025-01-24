@@ -1,3 +1,4 @@
+[![StandWithPalestine](https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/karim-eg/StandWithPalestine)
 
 ![cute-funny-kitten-cat-in-coffee-cup-mug-vector-45402977](https://user-images.githubusercontent.com/47903743/228850424-c3194887-a911-4129-ab92-7b4117e4746b.jpg)
 
